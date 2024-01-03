@@ -1,2 +1,2 @@
-email :
-gitID :
+email : agch7676@gmail.com
+gitID : agch1121
